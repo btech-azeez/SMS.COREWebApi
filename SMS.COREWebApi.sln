@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS.COREWebApi", "SMS.COREWebApi\SMS.COREWebApi.csproj", "{A914533C-A2BA-4EED-A9C5-4960D9F5044F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A914533C-A2BA-4EED-A9C5-4960D9F5044F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A914533C-A2BA-4EED-A9C5-4960D9F5044F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A914533C-A2BA-4EED-A9C5-4960D9F5044F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A914533C-A2BA-4EED-A9C5-4960D9F5044F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9CCAEF-D78B-4ADA-BAC1-BF44C3BC5263}
+	EndGlobalSection
+EndGlobal
